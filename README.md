@@ -1,7 +1,7 @@
 # My Development Portfolio
 
 <div style="display: flex; align-items: center;">
-  <img src="https://6530c2eda83e446ecd80c0cf--luminous-tarsier-caed98.netlify.app/feitan-removebg-preview.png" alt="Cover Image" width="150" height="150" style="border-radius: 50%; margin-right: 20px;">
+  <img src="https://6530c2eda83e446ecd80c0cf--luminous-tarsier-caed98.netlify.app/feitan-removebg-preview.png" alt="Cover Image" width="150" height="170" style="border-radius: 50%; margin-right: 20px;">
   <p>Welcome to my development portfolio! This repository contains information about me and my skills.</p>
 </div>
 
