@@ -11,3 +11,5 @@ Hello! My name is Gabriel Fuzeto, and I am a passionate technology and developme
 
 ## Languages
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fuzetoo&layout=normal)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fuzetoo&show_icons=true&theme=radical)
