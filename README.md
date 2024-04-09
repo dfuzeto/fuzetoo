@@ -1,4 +1,3 @@
-# My Development Portfolio
 
 <div style="display: flex; align-items: center;">
 </div>
