@@ -7,8 +7,8 @@ Olá! Meu nome é Gabriel Fuzeto, sou um entusiasta de tecnologia e desenvolvime
 
 ## Contato
 
-- **LinkedIn:** [Seu Perfil no LinkedIn](URL do LinkedIn)
-- **E-mail:** seuemail@example.com
+- **LinkedIn:** [Gabriel Fuzeto](https://www.linkedin.com/in/gabriel-fuzeto-b05210288/)
+- **E-mail:** luciofuzeto2@Gmail.com
 
 ## Estatísticas do GitHub
 
