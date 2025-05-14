@@ -12,5 +12,5 @@ Olá! Meu nome é Gabriel Fuzeto, sou um entusiasta de tecnologia e desenvolvime
 
 ## Estatísticas do GitHub
 
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=fuzetoo&layout=normal)
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=fuzetoo&show_icons=true&theme=radical)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=dfuzeto&layout=normal)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=dfuzeto&show_icons=true&theme=radical)
