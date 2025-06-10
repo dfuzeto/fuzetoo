@@ -10,7 +10,3 @@ Olá! Meu nome é Gabriel Fuzeto, sou um entusiasta de tecnologia e desenvolvime
 - **LinkedIn:** [Gabriel Fuzeto](https://www.linkedin.com/in/gabriel-fuzeto-b05210288/)
 - **E-mail:** luciofuzeto2@Gmail.com
 
-## Estatísticas do GitHub
-
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=dfuzeto&layout=normal)
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=dfuzeto&show_icons=true&theme=radical)
