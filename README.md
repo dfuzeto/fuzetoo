@@ -14,4 +14,3 @@ Olá! Meu nome é Gabriel Fuzeto, sou um entusiasta de tecnologia e desenvolvime
 
 ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=dfuzeto&layout=normal)
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=dfuzeto&show_icons=true&theme=radical)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dfuzeto)](https://github.com/anuraghazra/github-readme-stats)
