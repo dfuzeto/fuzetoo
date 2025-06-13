@@ -1,5 +1,4 @@
-<div style="display: flex; align-items: center;">
-</div>
+
 
 ## Sobre Mim
 
